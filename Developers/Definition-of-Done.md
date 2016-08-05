@@ -2,7 +2,7 @@ Definition of Done for a User Story
 ================================
 
 1. Code produced (all ‘to do’ items in code completed)
-2. Code commented, checked in and latest `master` merged in
+2. Code commented, latest `master` merged in, and pushed to GitHub
 3. Minimum dev-test requirements met (as defined in the User Story)
 4. Code reviewed (if required) and meets coding standards
 5. Builds without errors
