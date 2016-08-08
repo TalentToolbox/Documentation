@@ -5,7 +5,7 @@ Definition of Done for a User Story
 2. Code commented, latest `master` merged in, and pushed to GitHub
 3. Minimum dev-test requirements met (as defined in the User Story)
 4. Code reviewed (if required) and meets coding standards
-5. Builds without errors
+5. Builds without errors and runs (e.g. no circular dependency issues)
 6. Unit tests written and passing
 7. Deployed to test environment, testing advice given
 8. Issue tracking system up to date (estimates, status)
