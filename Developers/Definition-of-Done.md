@@ -3,8 +3,6 @@ Definition of Done for a User Story
 
 > When a user story is described as "Done", everyone much understand what "Done" means. 
 
-- Scrum Guide
-
 By all following this definition of done, we can ensure that we all complete a common set of tasks for every user story we do.
 
 - [ ] Code produced (all ‘to do’ items in code completed)
