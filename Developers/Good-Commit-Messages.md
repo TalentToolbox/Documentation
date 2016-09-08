@@ -22,10 +22,13 @@ A good commit consists of:
 
 ## Examples
 
+Bad:
+> Get employee details for report straight from employees table
+
 Good:
+>`BUGS-890 employee names and external ref changed to be non-static in reports
+
+Even better:
 >`BUGS-890 employee names and external ref changed to be non-static in reports
 >
 > We needed these properties to be 'live' rather than static, so if a person changed their name, that would be reflected in reports This was achieved by pulling this data directly from the Employees table when loading report data.
-
-Bad:
-> Get employee details for report straight from employees table
