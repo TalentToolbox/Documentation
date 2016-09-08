@@ -1,6 +1,6 @@
 # Good Commit Messages
 
-Any software project is a collaborative project. It has at least two developers, the original developer, and the original developer a few weeks or months later when the train of thought has long left the station. This later self needs to reestablish the context of a particular piece of code each time a new bug occurs or a new feature needs to be implemented. 
+Any software project is a collaborative project. It has at least two developers, the original developer, and the original developer a few weeks or months later when the train of thought has long left the station. This later self, or a different developer, needs to re-establish the context of a particular piece of code each time a new bug occurs or a new feature needs to be implemented. 
 
 Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to reducing it to as small as possible. Commit messages can do exactly that and as a result, a commit message shows whether a developer is a good collaborator.
 
@@ -15,7 +15,7 @@ A good commit consists of:
 
 1. The JIRA issue number at the start
 2. A brief description of the change (approx 50 characters)
-3. A more detailed description after a line break, ideally covering the **why** and the **how**
+3. Two line breaks then a more detailed description after a line break, ideally covering the **why** and the **how**
   - **Why** is it necessary? It may fix a bug, it may add a feature, it may improve performance, reliabilty, stability, or just be a change for the sake of correctness.
   - **How** does it address the issue? For short obvious commits this part can be omitted, but it should be a high level description of what the approach was.
 
