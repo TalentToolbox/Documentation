@@ -10,7 +10,7 @@ By all following this definition of done, we can ensure that we all complete a c
 - [ ] Latest `master` merged in, and pushed to GitHub with correct branch name
 - [ ] Comments added to code
 - [ ] Unit tests written and passing
-- [ ] Minimum dev-test requirements met (as defined in the User Story)
+- [ ] Developer has tested his/her own work
 - [ ] Code reviewed (if required) and meets coding standards
 - [ ] Deployed to test environment, testing advice given
 - [ ] Issue tracking system up to date (estimates, status)
