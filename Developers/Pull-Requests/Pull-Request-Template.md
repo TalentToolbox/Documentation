@@ -4,6 +4,6 @@
 
 #### How can this be tested?
 
-#### Any techical debt? _(if so, describe)_
+#### Any technical debt? _(if so, describe)_
 
 #### Screenshots / Screencast _(optional)_
