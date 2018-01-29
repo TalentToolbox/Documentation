@@ -1,4 +1,4 @@
 [build]
   base    = "Internal-Docs-Site/website"
-  publish = "build"
+  publish = "Internal-Docs-Site/website/build"
   command = "build"
