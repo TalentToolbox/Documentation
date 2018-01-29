@@ -1,14 +1,19 @@
 Definition of Done for a User Story
 ================================
 
-1. Code produced (all ‘to do’ items in code completed)
-2. Code commented, checked in and latest `master` merged in
-3. Minimum dev-test requirements met (as defined in the User Story)
-4. Code reviewed (if required) and meeting coding standards
-5. Builds without errors
-6. Unit tests written and passing
-7. Deployed to test environment, testing advice given
-8. Issue tracking system up to date (estimates, status)
+> When a user story is described as "Done", everyone much understand what "Done" means. 
+
+By all following this definition of done, we can ensure that we all complete a common set of tasks for every user story we do.
+
+- [ ] Code produced (all ‘to do’ items in code completed)
+- [ ] Builds without errors and applications run (e.g. no circular dependency issues)
+- [ ] Latest `master` merged in, and pushed to GitHub with correct branch name
+- [ ] Comments added to code
+- [ ] Unit tests written and passing
+- [ ] Developer has tested his/her own work
+- [ ] Code reviewed (if required) and meets coding standards
+- [ ] Deployed to test environment, testing advice given
+- [ ] Issue tracking system up to date (estimates, status)
 
 
 
