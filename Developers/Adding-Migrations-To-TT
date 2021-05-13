@@ -1,0 +1,8 @@
+EntityFramework\update-database -script -StartUpProjectName TalentToolbox.Frontend.UI -ProjectName TalentToolbox.DAL
+
+/*EntityFramework\update-database -verbose -StartUpProjectName TalentToolbox.Frontend.UI -ProjectName TalentToolbox.DAL -force*/
+
+
+EntityFramework\Add-Migration XXXXXXXX -StartUpProjectName TalentToolbox.Frontend.UI -ProjectName TalentToolbox.DAL
+
+EntityFramework\update-database -script -StartUpProjectName TalentToolbox.Frontend.UI -ProjectName TalentToolbox.DAL -TargetMigration:"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
